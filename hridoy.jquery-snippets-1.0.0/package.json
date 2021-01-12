@@ -1,0 +1,87 @@
+{
+	"name": "jquery-snippets",
+	"displayName": "jQuery Snippets",
+	"description": "all in jquery snippets for development",
+	"version": "1.0.0",
+	"publisher": "Hridoy",
+	"icon": "img/icon.png",
+	"galleryBanner": {
+		"color": "#1E81C1",
+		"theme": "light"
+	},
+	"license": "SEE LICENSE IN LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hridoy/jquery-snippets-vscode"
+	},
+	"keywords": [
+		"jQuery",
+		"jQuery Snippets",
+		"jQuery Mobile",
+		"jQuery Coffeescript",
+		"Coffeescript"
+	],
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "'javascript'",
+				"path": "./snippets/core/ajax.json"
+			},
+			{
+				"language": "'javascript'",
+				"path": "./snippets/core/document-ready.json"
+			},
+			{
+				"language": "'javascript'",
+				"path": "./snippets/core/event.json"
+			},
+			{
+				"language": "'javascript'",
+				"path": "./snippets/core/plugin.json"
+			},
+			{
+				"language": "'javascript'",
+				"path": "./snippets/core/selector.json"
+			},
+			{
+				"language": "'javascript'",
+				"path": "./snippets/mobile/buttons.json"
+			},
+			{
+				"language": "'javascript'",
+				"path": "./snippets/mobile/dialog.json"
+			},
+			{
+				"language": "'javascript'",
+				"path": "./snippets/mobile/form-elements.json"
+			},
+			{
+				"language": "'javascript'",
+				"path": "./snippets/mobile/layout.json"
+			},
+			{
+				"language": "'javascript'",
+				"path": "./snippets/mobile/list-view.json"
+			},
+			{
+				"language": "'javascript'",
+				"path": "./snippets/mobile/structure.json"
+			},
+			{
+				"language": "'javascript'",
+				"path": "./snippets/coffe-script.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "939971c6-edf0-4e45-815d-2f5a1438a436",
+		"publisherId": "7313be19-41f9-40d9-a1d6-33e5476a9e6e",
+		"publisherDisplayName": "Hridoy"
+	}
+}

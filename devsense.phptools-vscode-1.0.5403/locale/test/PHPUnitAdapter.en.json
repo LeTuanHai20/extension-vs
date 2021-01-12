@@ -1,0 +1,5 @@
+{
+    "PhpunitXmlMissing": "Tests found in your workspace. Create 'phpunit.xml' to enable Test Explorer?",
+    "GenerateDefault": "Create phpunit.xml",
+    "Cancel": "Dismiss"
+}

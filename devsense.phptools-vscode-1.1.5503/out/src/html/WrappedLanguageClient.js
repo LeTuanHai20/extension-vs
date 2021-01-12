@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});const g=require("vscode-languageclient");class es extends g.LanguageClient{registerBuiltinFeatures(){}}exports.WrappedLanguageClient=es;
